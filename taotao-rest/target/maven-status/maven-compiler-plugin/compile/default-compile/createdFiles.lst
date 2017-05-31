@@ -1,0 +1,14 @@
+com\taotao\rest\service\JedisSyncService.class
+com\taotao\rest\service\impl\JedisSyncServiceImpl.class
+com\taotao\rest\service\ItemCatService.class
+com\taotao\rest\service\impl\ContentServiceImpl.class
+com\taotao\rest\service\impl\ItemServiceImpl.class
+com\taotao\rest\controller\ItemController.class
+com\taotao\rest\service\ItemService.class
+com\taotao\rest\component\impl\JedisClientCluster.class
+com\taotao\rest\controller\ItemCatController.class
+com\taotao\rest\component\impl\JedisClientSingle.class
+com\taotao\rest\service\ContentService.class
+com\taotao\rest\component\RedisClient.class
+com\taotao\rest\controller\ContentController.class
+com\taotao\rest\service\impl\ItemCatServiceImpl.class

@@ -1,0 +1,14 @@
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\component\RedisClient.java
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\component\impl\JedisClientCluster.java
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\service\impl\ItemServiceImpl.java
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\service\ItemCatService.java
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\service\JedisSyncService.java
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\service\impl\ItemCatServiceImpl.java
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\service\impl\ContentServiceImpl.java
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\service\impl\JedisSyncServiceImpl.java
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\component\impl\JedisClientSingle.java
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\controller\ContentController.java
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\service\ItemService.java
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\controller\ItemController.java
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\controller\ItemCatController.java
+E:\eclipse_work\taotao-rest\src\main\java\com\taotao\rest\service\ContentService.java
